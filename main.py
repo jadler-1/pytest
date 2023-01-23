@@ -1,4 +1,3 @@
-3333  # folks want me to comment more...fuck them...learn to read code
 # import str
 # import sys
 from db.mongo_test import test_client
